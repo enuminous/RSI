@@ -1,0 +1,386 @@
+{
+  "ablations": {
+    "classification": "EXPLORATORY_NOT_PREREGISTERED_AS_GATE",
+    "holdout_results": {
+      "force_support_on_conflict": {
+        "accuracy": 0.84375,
+        "confusion": {
+          "CONTRADICTED": {
+            "CONTRADICTED": 29,
+            "SUPPORTED": 0,
+            "UNRESOLVED": 0
+          },
+          "SUPPORTED": {
+            "CONTRADICTED": 0,
+            "SUPPORTED": 15,
+            "UNRESOLVED": 0
+          },
+          "UNRESOLVED": {
+            "CONTRADICTED": 0,
+            "SUPPORTED": 60,
+            "UNRESOLVED": 280
+          }
+        },
+        "correct": 324,
+        "coverage": 0.2708333333333333,
+        "false_assertion_rate": 0.15625,
+        "false_assertions": 60,
+        "n": 384
+      },
+      "remove_bridge_gate": {
+        "accuracy": 0.9088541666666666,
+        "confusion": {
+          "CONTRADICTED": {
+            "CONTRADICTED": 29,
+            "SUPPORTED": 0,
+            "UNRESOLVED": 0
+          },
+          "SUPPORTED": {
+            "CONTRADICTED": 0,
+            "SUPPORTED": 15,
+            "UNRESOLVED": 0
+          },
+          "UNRESOLVED": {
+            "CONTRADICTED": 21,
+            "SUPPORTED": 14,
+            "UNRESOLVED": 305
+          }
+        },
+        "correct": 349,
+        "coverage": 0.20572916666666666,
+        "false_assertion_rate": 0.09114583333333333,
+        "false_assertions": 35,
+        "n": 384
+      },
+      "remove_provenance_gate": {
+        "accuracy": 0.9036458333333334,
+        "confusion": {
+          "CONTRADICTED": {
+            "CONTRADICTED": 29,
+            "SUPPORTED": 0,
+            "UNRESOLVED": 0
+          },
+          "SUPPORTED": {
+            "CONTRADICTED": 0,
+            "SUPPORTED": 15,
+            "UNRESOLVED": 0
+          },
+          "UNRESOLVED": {
+            "CONTRADICTED": 29,
+            "SUPPORTED": 8,
+            "UNRESOLVED": 303
+          }
+        },
+        "correct": 347,
+        "coverage": 0.2109375,
+        "false_assertion_rate": 0.09635416666666667,
+        "false_assertions": 37,
+        "n": 384
+      }
+    }
+  },
+  "claim_status": {
+    "agi": "NOT_ESTABLISHED",
+    "autonomous_model_weight_updates": "NOT_IMPLEMENTED",
+    "efmw_specific_mechanism": "UNRESOLVED",
+    "independent_replication": "UNRESOLVED",
+    "real_world_transfer": "UNRESOLVED",
+    "synthetic_holdout_gate": "PASS"
+  },
+  "development": {
+    "baseline": {
+      "accuracy": 0.3359375,
+      "confusion": {
+        "CONTRADICTED": {
+          "CONTRADICTED": 30,
+          "SUPPORTED": 0,
+          "UNRESOLVED": 17
+        },
+        "SUPPORTED": {
+          "CONTRADICTED": 0,
+          "SUPPORTED": 34,
+          "UNRESOLVED": 16
+        },
+        "UNRESOLVED": {
+          "CONTRADICTED": 53,
+          "SUPPORTED": 169,
+          "UNRESOLVED": 65
+        }
+      },
+      "correct": 129,
+      "coverage": 0.7447916666666666,
+      "false_assertion_rate": 0.578125,
+      "false_assertions": 222,
+      "n": 384
+    },
+    "candidate": {
+      "accuracy": 1.0,
+      "confusion": {
+        "CONTRADICTED": {
+          "CONTRADICTED": 47,
+          "SUPPORTED": 0,
+          "UNRESOLVED": 0
+        },
+        "SUPPORTED": {
+          "CONTRADICTED": 0,
+          "SUPPORTED": 50,
+          "UNRESOLVED": 0
+        },
+        "UNRESOLVED": {
+          "CONTRADICTED": 0,
+          "SUPPORTED": 0,
+          "UNRESOLVED": 287
+        }
+      },
+      "correct": 384,
+      "coverage": 0.2526041666666667,
+      "false_assertion_rate": 0.0,
+      "false_assertions": 0,
+      "n": 384
+    },
+    "conservative_baseline": {
+      "accuracy": 0.7994791666666666,
+      "confusion": {
+        "CONTRADICTED": {
+          "CONTRADICTED": 30,
+          "SUPPORTED": 0,
+          "UNRESOLVED": 17
+        },
+        "SUPPORTED": {
+          "CONTRADICTED": 0,
+          "SUPPORTED": 34,
+          "UNRESOLVED": 16
+        },
+        "UNRESOLVED": {
+          "CONTRADICTED": 20,
+          "SUPPORTED": 24,
+          "UNRESOLVED": 243
+        }
+      },
+      "correct": 307,
+      "coverage": 0.28125,
+      "false_assertion_rate": 0.11458333333333333,
+      "false_assertions": 44,
+      "n": 384
+    },
+    "oracle_aware_reference": {
+      "accuracy": 1.0,
+      "confusion": {
+        "CONTRADICTED": {
+          "CONTRADICTED": 47,
+          "SUPPORTED": 0,
+          "UNRESOLVED": 0
+        },
+        "SUPPORTED": {
+          "CONTRADICTED": 0,
+          "SUPPORTED": 50,
+          "UNRESOLVED": 0
+        },
+        "UNRESOLVED": {
+          "CONTRADICTED": 0,
+          "SUPPORTED": 0,
+          "UNRESOLVED": 287
+        }
+      },
+      "correct": 384,
+      "coverage": 0.2526041666666667,
+      "false_assertion_rate": 0.0,
+      "false_assertions": 0,
+      "n": 384
+    },
+    "random_search_null": {
+      "accuracy": 0.9505208333333334,
+      "confusion": {
+        "CONTRADICTED": {
+          "CONTRADICTED": 47,
+          "SUPPORTED": 0,
+          "UNRESOLVED": 0
+        },
+        "SUPPORTED": {
+          "CONTRADICTED": 0,
+          "SUPPORTED": 50,
+          "UNRESOLVED": 0
+        },
+        "UNRESOLVED": {
+          "CONTRADICTED": 7,
+          "SUPPORTED": 12,
+          "UNRESOLVED": 268
+        }
+      },
+      "correct": 365,
+      "coverage": 0.3020833333333333,
+      "false_assertion_rate": 0.049479166666666664,
+      "false_assertions": 19,
+      "n": 384
+    }
+  },
+  "effect": {
+    "accuracy_gain": 0.5859375,
+    "false_assertion_rate_change": -0.5338541666666666,
+    "paired_bootstrap_95pct_accuracy_gain_interval": [
+      0.5364583333333334,
+      0.6354166666666666
+    ]
+  },
+  "experiment_id": "RSI-SYNTH-001",
+  "gate": {
+    "checks": {
+      "maximum_false_assertion_increase": true,
+      "minimum_accuracy_gain": true,
+      "minimum_ci_lower": true
+    },
+    "status": "PASS",
+    "thresholds": {
+      "bootstrap_repetitions": 1000,
+      "bootstrap_seed": 515,
+      "maximum_false_assertion_increase": 0.0,
+      "minimum_accuracy_gain": 0.05,
+      "minimum_ci_lower": 0.0
+    }
+  },
+  "heldout": {
+    "baseline": {
+      "accuracy": 0.4140625,
+      "confusion": {
+        "CONTRADICTED": {
+          "CONTRADICTED": 15,
+          "SUPPORTED": 0,
+          "UNRESOLVED": 14
+        },
+        "SUPPORTED": {
+          "CONTRADICTED": 0,
+          "SUPPORTED": 9,
+          "UNRESOLVED": 6
+        },
+        "UNRESOLVED": {
+          "CONTRADICTED": 94,
+          "SUPPORTED": 111,
+          "UNRESOLVED": 135
+        }
+      },
+      "correct": 159,
+      "coverage": 0.5963541666666666,
+      "false_assertion_rate": 0.5338541666666666,
+      "false_assertions": 205,
+      "n": 384
+    },
+    "candidate": {
+      "accuracy": 1.0,
+      "confusion": {
+        "CONTRADICTED": {
+          "CONTRADICTED": 29,
+          "SUPPORTED": 0,
+          "UNRESOLVED": 0
+        },
+        "SUPPORTED": {
+          "CONTRADICTED": 0,
+          "SUPPORTED": 15,
+          "UNRESOLVED": 0
+        },
+        "UNRESOLVED": {
+          "CONTRADICTED": 0,
+          "SUPPORTED": 0,
+          "UNRESOLVED": 340
+        }
+      },
+      "correct": 384,
+      "coverage": 0.11458333333333333,
+      "false_assertion_rate": 0.0,
+      "false_assertions": 0,
+      "n": 384
+    },
+    "conservative_baseline": {
+      "accuracy": 0.859375,
+      "confusion": {
+        "CONTRADICTED": {
+          "CONTRADICTED": 15,
+          "SUPPORTED": 0,
+          "UNRESOLVED": 14
+        },
+        "SUPPORTED": {
+          "CONTRADICTED": 0,
+          "SUPPORTED": 9,
+          "UNRESOLVED": 6
+        },
+        "UNRESOLVED": {
+          "CONTRADICTED": 18,
+          "SUPPORTED": 16,
+          "UNRESOLVED": 306
+        }
+      },
+      "correct": 330,
+      "coverage": 0.15104166666666666,
+      "false_assertion_rate": 0.08854166666666667,
+      "false_assertions": 34,
+      "n": 384
+    },
+    "oracle_aware_reference": {
+      "accuracy": 1.0,
+      "confusion": {
+        "CONTRADICTED": {
+          "CONTRADICTED": 29,
+          "SUPPORTED": 0,
+          "UNRESOLVED": 0
+        },
+        "SUPPORTED": {
+          "CONTRADICTED": 0,
+          "SUPPORTED": 15,
+          "UNRESOLVED": 0
+        },
+        "UNRESOLVED": {
+          "CONTRADICTED": 0,
+          "SUPPORTED": 0,
+          "UNRESOLVED": 340
+        }
+      },
+      "correct": 384,
+      "coverage": 0.11458333333333333,
+      "false_assertion_rate": 0.0,
+      "false_assertions": 0,
+      "n": 384
+    },
+    "random_search_null": {
+      "accuracy": 0.9088541666666666,
+      "confusion": {
+        "CONTRADICTED": {
+          "CONTRADICTED": 29,
+          "SUPPORTED": 0,
+          "UNRESOLVED": 0
+        },
+        "SUPPORTED": {
+          "CONTRADICTED": 0,
+          "SUPPORTED": 15,
+          "UNRESOLVED": 0
+        },
+        "UNRESOLVED": {
+          "CONTRADICTED": 21,
+          "SUPPORTED": 14,
+          "UNRESOLVED": 305
+        }
+      },
+      "correct": 349,
+      "coverage": 0.20572916666666666,
+      "false_assertion_rate": 0.09114583333333333,
+      "false_assertions": 35,
+      "n": 384
+    }
+  },
+  "limitations": [
+    "Synthetic ground truth is written into the code and is not externally measured.",
+    "An explicitly oracle-aware reference policy achieves the benchmark ceiling; the candidate does not outperform it.",
+    "The finite policy search is not self-modification of AI model weights.",
+    "Development and holdout have separate seeds but share the same synthetic oracle.",
+    "Holdout seeds and implementation are public; there is no secure blinding.",
+    "A single internal run is not independent replication or evidence of AGI.",
+    "Ablations are descriptive post-selection analyses and not confirmatory tests."
+  ],
+  "promotion": "NOT_AUTOMATIC; independent signoff not included",
+  "protocol_version": "1.0.0",
+  "scope": "synthetic finite-policy optimization; internal demonstration only",
+  "search": {
+    "algorithm": "one_gene_hillclimb",
+    "null_algorithm": "uniform_random_search_same_budget",
+    "null_proposal_budget": 64,
+    "proposal_budget": 64
+  }
+}

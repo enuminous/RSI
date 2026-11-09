@@ -1,0 +1,7 @@
+{
+  "conflict_handling": "abstain",
+  "contradiction_threshold": 1,
+  "require_bridge": false,
+  "require_provenance": true,
+  "support_threshold": 1
+}

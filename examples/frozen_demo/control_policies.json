@@ -1,0 +1,16 @@
+{
+  "conservative_baseline": {
+    "conflict_handling": "abstain",
+    "contradiction_threshold": 2,
+    "require_bridge": true,
+    "require_provenance": true,
+    "support_threshold": 2
+  },
+  "oracle_aware_reference": {
+    "conflict_handling": "abstain",
+    "contradiction_threshold": 1,
+    "require_bridge": true,
+    "require_provenance": true,
+    "support_threshold": 1
+  }
+}

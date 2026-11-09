@@ -1,0 +1,22 @@
+{
+  "algorithm": "SHA-256",
+  "artifact_hashes": {
+    "baseline_policy.json": "ced70ee72f9d445a0bbf7cb06e22565f6225b2bb8ba0b0fef16249e1ffceb842",
+    "candidate_policy.json": "05ce90778009f99da439d866d25ab40bfadb05ff8167e9f4e28817a2b367f1a6",
+    "control_policies.json": "5d525b146c2c70b0f422c5f92812260bb119ad11717eff3fa6f7d7213120fcc1",
+    "development_cases.json": "1aca57ea3e9519c90cba62742703ef24d02d73d02effcb930fd7927fb116da38",
+    "holdout_cases.json": "46b28eab3d671cb792ce014ac6445c3b69270dbc76436bffa0f4c7007de06766",
+    "null_policy.json": "4137308319a269bd881eeda9170ebc6e9f89ec0b27571c79bf28e157c843f87e",
+    "protocol.snapshot.json": "666ff30da763be28ca43019091e8372a25802ddf676e314d163cf2b4b2267e85",
+    "report.json": "73bff0eccb8cf3026af835e1c3ea9631e8ed40aa74636d209346222cc3f528ac",
+    "search_trace.json": "362ebd2b05102d16dcc09c533f8d0b7ab97b0663849e8dc8ff534e78a7f922e2"
+  },
+  "note": "Detects accidental changes only; author-controlled hashes are not a digital signature.",
+  "source_hashes": {
+    "rsi/cli.py": "c321ff6ccfd50a8fe62f7c65a69223649adc64efd49b2f150b17ddb0007c14cd",
+    "rsi/core.py": "e5efde1857480aef26d23d58778d198e46752fda165070dbe264998cadb87985",
+    "rsi/experiment.py": "3c51300d9f3ed6b144927b499393ce1828c3ce6f8deaee01b4794b02afd8c7df",
+    "rsi/io.py": "02f4f28136f8653a8bf4bae96b18957da4c83d6697032f85b4eeb46e5b3fa630"
+  },
+  "type": "RSI-SYNTH-001-artifact-digests"
+}

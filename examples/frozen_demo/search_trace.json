@@ -1,0 +1,1542 @@
+{
+  "candidate": [
+    {
+      "accepted": true,
+      "dev_objective": -0.609375,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 3,
+        "require_bridge": false,
+        "require_provenance": false,
+        "support_threshold": 2
+      },
+      "step": 1
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.8203125,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 2,
+        "require_bridge": false,
+        "require_provenance": false,
+        "support_threshold": 2
+      },
+      "step": 2
+    },
+    {
+      "accepted": true,
+      "dev_objective": -0.1875,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 3,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 3
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.28125,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 2,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 4
+    },
+    {
+      "accepted": true,
+      "dev_objective": 0.1015625,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 3,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 5
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.2421875,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 3,
+        "require_bridge": false,
+        "require_provenance": false,
+        "support_threshold": 2
+      },
+      "step": 6
+    },
+    {
+      "accepted": true,
+      "dev_objective": 0.36718749999999994,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 3,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 7
+    },
+    {
+      "accepted": true,
+      "dev_objective": 0.7239583333333334,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 8
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.10677083333333326,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 9
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.32812499999999994,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 3
+      },
+      "step": 10
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.4973958333333333,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 11
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.4583333333333333,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 2
+      },
+      "step": 12
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.10677083333333326,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 13
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.5703125,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 14
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.4973958333333333,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 15
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.4973958333333333,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 16
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.4973958333333333,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 17
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.10677083333333326,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 18
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.5703125,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 19
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.10677083333333326,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 20
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.4583333333333333,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 2
+      },
+      "step": 21
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.4973958333333333,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 22
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.5703125,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 23
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.5703125,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 24
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.4973958333333333,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 25
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.10677083333333326,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 26
+    },
+    {
+      "accepted": true,
+      "dev_objective": 1.0,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 27
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.78125,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 28
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.8515625,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 29
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.1484375,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 30
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.8515625,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 31
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.1484375,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 32
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.33072916666666663,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 3,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 33
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.8515625,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 34
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.1484375,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 35
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.7239583333333334,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 36
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.6901041666666666,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 37
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.6901041666666666,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 38
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.78125,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 39
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.33072916666666663,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 3,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 40
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.8515625,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 41
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.78125,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 42
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.8515625,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 43
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.78125,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 44
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.8515625,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 45
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.32812499999999994,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 3
+      },
+      "step": 46
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.78125,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 47
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.1484375,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 48
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.7239583333333334,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 49
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.78125,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 50
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.6901041666666666,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 51
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.6901041666666666,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 52
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.32812499999999994,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 3
+      },
+      "step": 53
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.78125,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 54
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.32812499999999994,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 3
+      },
+      "step": 55
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.33072916666666663,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 3,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 56
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.1484375,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 57
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.78125,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 58
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.1484375,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 59
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.7239583333333334,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 60
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.78125,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 61
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.7239583333333334,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 62
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.32812499999999994,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 3
+      },
+      "step": 63
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.1484375,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 64
+    }
+  ],
+  "random_search_null": [
+    {
+      "accepted": true,
+      "dev_objective": -0.31770833333333337,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 1
+    },
+    {
+      "accepted": true,
+      "dev_objective": 0.15104166666666669,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 3,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 3
+      },
+      "step": 2
+    },
+    {
+      "accepted": true,
+      "dev_objective": 0.28125,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 2
+      },
+      "step": 3
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.140625,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 4
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.20572916666666663,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 3
+      },
+      "step": 5
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.3359375,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 6
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.3359375,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 7
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.2421875,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 2
+      },
+      "step": 8
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.1484375,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 9
+    },
+    {
+      "accepted": true,
+      "dev_objective": 0.4583333333333333,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 2
+      },
+      "step": 10
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.375,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 11
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.1015625,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 3,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 12
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.39322916666666663,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 13
+    },
+    {
+      "accepted": true,
+      "dev_objective": 0.5182291666666666,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 3,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 3
+      },
+      "step": 14
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.4296875,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": false,
+        "support_threshold": 3
+      },
+      "step": 15
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.5442708333333333,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 2,
+        "require_bridge": false,
+        "require_provenance": false,
+        "support_threshold": 3
+      },
+      "step": 16
+    },
+    {
+      "accepted": true,
+      "dev_objective": 0.7239583333333334,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 17
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.10677083333333326,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 18
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.4192708333333333,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 3,
+        "require_bridge": false,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 19
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.10677083333333326,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 20
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.4088541666666667,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 3
+      },
+      "step": 21
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.30729166666666663,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 3,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 3
+      },
+      "step": 22
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.07552083333333337,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 3
+      },
+      "step": 23
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.2421875,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 2
+      },
+      "step": 24
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.20572916666666663,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 3
+      },
+      "step": 25
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.34635416666666663,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 2
+      },
+      "step": 26
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.5703125,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 27
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.29427083333333326,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 3,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 28
+    },
+    {
+      "accepted": false,
+      "dev_objective": -1.046875,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 29
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.2421875,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 3,
+        "require_bridge": false,
+        "require_provenance": false,
+        "support_threshold": 2
+      },
+      "step": 30
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.03125,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 3
+      },
+      "step": 31
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.10416666666666663,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 32
+    },
+    {
+      "accepted": false,
+      "dev_objective": -1.0182291666666665,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": false,
+        "support_threshold": 2
+      },
+      "step": 33
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.39322916666666663,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 34
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.4322916666666667,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 35
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.07552083333333337,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 3
+      },
+      "step": 36
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.39062500000000006,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 3
+      },
+      "step": 37
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.34635416666666663,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 2
+      },
+      "step": 38
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.375,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 39
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.06510416666666663,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 2,
+        "require_bridge": false,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 40
+    },
+    {
+      "accepted": false,
+      "dev_objective": -1.046875,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 41
+    },
+    {
+      "accepted": true,
+      "dev_objective": 0.8515625,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 42
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.07291666666666663,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 3,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 43
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.40104166666666663,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 3,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 3
+      },
+      "step": 44
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.13020833333333337,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 2,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 3
+      },
+      "step": 45
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.375,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 46
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.13020833333333337,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 2,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 3
+      },
+      "step": 47
+    },
+    {
+      "accepted": false,
+      "dev_objective": -1.046875,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 48
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.3359375,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 1,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 49
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.546875,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 50
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.07291666666666663,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 3,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 51
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.06510416666666663,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 3,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 52
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.20572916666666663,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 3
+      },
+      "step": 53
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.03125,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 3
+      },
+      "step": 54
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.36718749999999994,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 3,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 55
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.4192708333333333,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 3,
+        "require_bridge": false,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 56
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.1875,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 3,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 57
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.20572916666666663,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 2,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 3
+      },
+      "step": 58
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.28125,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 2,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 59
+    },
+    {
+      "accepted": false,
+      "dev_objective": -0.38020833333333337,
+      "proposal": {
+        "conflict_handling": "prefer_support",
+        "contradiction_threshold": 2,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 1
+      },
+      "step": 60
+    },
+    {
+      "accepted": false,
+      "dev_objective": -1.046875,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 1,
+        "require_bridge": false,
+        "require_provenance": false,
+        "support_threshold": 1
+      },
+      "step": 61
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.15104166666666669,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 2,
+        "require_bridge": false,
+        "require_provenance": true,
+        "support_threshold": 3
+      },
+      "step": 62
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.17968749999999994,
+      "proposal": {
+        "conflict_handling": "prefer_contradiction",
+        "contradiction_threshold": 3,
+        "require_bridge": true,
+        "require_provenance": true,
+        "support_threshold": 2
+      },
+      "step": 63
+    },
+    {
+      "accepted": false,
+      "dev_objective": 0.3619791666666667,
+      "proposal": {
+        "conflict_handling": "abstain",
+        "contradiction_threshold": 3,
+        "require_bridge": true,
+        "require_provenance": false,
+        "support_threshold": 3
+      },
+      "step": 64
+    }
+  ]
+}

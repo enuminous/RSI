@@ -1,0 +1,33 @@
+{
+  "baseline_policy": {
+    "conflict_handling": "prefer_support",
+    "contradiction_threshold": 2,
+    "require_bridge": false,
+    "require_provenance": false,
+    "support_threshold": 2
+  },
+  "dataset": {
+    "development_distribution": "uniform",
+    "development_seed": 4301,
+    "development_size": 384,
+    "holdout_distribution": "stress",
+    "holdout_seed": 8707,
+    "holdout_size": 384
+  },
+  "gate": {
+    "bootstrap_repetitions": 1000,
+    "bootstrap_seed": 515,
+    "maximum_false_assertion_increase": 0.0,
+    "minimum_accuracy_gain": 0.05,
+    "minimum_ci_lower": 0.0
+  },
+  "protocol_id": "RSI-SYNTH-001",
+  "search": {
+    "algorithm": "one_gene_hillclimb",
+    "budget": 64,
+    "null_arm": "uniform_random_search_same_budget",
+    "seed": 991
+  },
+  "status": "FROZEN",
+  "version": "1.0.0"
+}

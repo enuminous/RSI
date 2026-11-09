@@ -1,0 +1,55 @@
+{
+  "ledger_version": "1.0.0",
+  "claims": [
+    {
+      "id": "RSI-001",
+      "claim": "The included code implements a bounded deterministic recursive policy search.",
+      "status": "DERIVED",
+      "evidence": ["rsi/core.py", "rsi/experiment.py", "tests/test_experiment.py"],
+      "caveat": "Executable implementation, not autonomous foundation-model self-improvement"
+    },
+    {
+      "id": "RSI-002",
+      "claim": "The frozen synthetic demonstration's candidate passes the predeclared internal holdout gate.",
+      "status": "SIMULATED",
+      "evidence": ["configs/protocol-v1.json", "examples/frozen_demo/report.json", "examples/frozen_demo/manifest.json"],
+      "caveat": "Artificial labels; results are not independent external validation"
+    },
+    {
+      "id": "RSI-003",
+      "claim": "An oracle-aware conventional policy reaches the synthetic test ceiling.",
+      "status": "SIMULATED",
+      "evidence": ["examples/frozen_demo/report.json", "examples/frozen_demo/control_policies.json"],
+      "caveat": "The synthetic rule is explicit in the implementation"
+    },
+    {
+      "id": "RSI-004",
+      "claim": "An external reviewer independently reproduced the demonstration.",
+      "status": "UNKNOWN",
+      "evidence": [],
+      "caveat": "CI and local replay are not independent scientific replication"
+    },
+    {
+      "id": "RSI-005",
+      "claim": "The method improves real scientific reasoning beyond strong alternatives.",
+      "status": "UNKNOWN",
+      "evidence": [],
+      "caveat": "Requires externally sourced tasks, blinded holdout and credible baselines"
+    },
+    {
+      "id": "RSI-006",
+      "claim": "The mechanism demonstrates an EFMW-specific cognitive effect.",
+      "status": "UNKNOWN",
+      "evidence": [],
+      "caveat": "Ordinary policy optimization is an adequate explanation for the toy task"
+    },
+    {
+      "id": "RSI-007",
+      "claim": "MillieComplex has autonomously improved the underlying model's weights.",
+      "status": "CONTRADICTED",
+      "evidence": ["rsi/core.py", "rsi/experiment.py"],
+      "caveat": "No weights are accessible or modified in this repository"
+    }
+  ],
+  "status_vocabulary": ["PROPOSED", "DERIVED", "SIMULATED", "OBSERVED", "REPLICATED", "CONTRADICTED", "UNKNOWN"]
+}

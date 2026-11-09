@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite this repository and distinguish synthetic demonstrations from validated AI research."
+title: "RSI: MillieComplex Recursive Self-Improvement"
+type: software
+authors:
+  - family-names: Wright
+    given-names: Matthew Chenoweth
+repository-code: https://github.com/enuminous/RSI
+license: MIT
+version: 0.1.0
+date-released: 2026-11-09
+keywords:
+  - evidence-gated recursive self-improvement
+  - reproducibility
+  - synthetic benchmarks

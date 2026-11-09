@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="MillieComplex RSI: an evidence-gated recursive improvement research prototype." />
+  <title>RSI / MillieComplex Research Observatory</title>
+  <style>
+    :root { color-scheme: dark; --ink:#edf1f3; --muted:#a3b1b6; --bg:#081014; --panel:#101c21; --line:#2a4048; --cyan:#61d6d2; --purple:#bfa8ff; --warn:#ffd18e; --green:#9edbb8; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:radial-gradient(ellipse at top right,#163039 0%,transparent 55%),var(--bg); color:var(--ink); font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Arial,sans-serif; line-height:1.55; }
+    a { color:var(--cyan); }
+    a:hover { color:white; }
+    .container { width:min(1120px,calc(100% - 36px)); margin:auto; }
+    header { border-bottom:1px solid var(--line); }
+    .top { display:flex; align-items:center; justify-content:space-between; padding:15px 0; gap:15px; }
+    .wordmark { font-weight:800; letter-spacing:0.18em; font-size:1rem; }
+    .wordmark span { color:var(--cyan); }
+    nav { display:flex; flex-wrap:wrap; gap:18px; font-size:0.86rem; }
+    nav a { text-decoration:none; color:var(--muted); }
+    main { padding-bottom:80px; }
+    .hero { padding:75px 0 45px; }
+    .eyebrow { color:var(--cyan); font-weight:700; letter-spacing:0.15em; text-transform:uppercase; font-size:.74rem; }
+    h1 { font-size:clamp(3.1rem,8vw,6.5rem); line-height:0.98; letter-spacing:-0.07em; margin:18px 0 20px; }
+    h1 em { font-style:normal; color:var(--cyan); }
+    h2 { font-size:clamp(1.6rem,4vw,2.2rem); letter-spacing:-0.04em; margin:0 0 12px; }
+    h3 { margin:0 0 5px; font-size:1.08rem; }
+    .lead { max-width:760px; color:#c0cbd0; font-size:1.15rem; }
+    .pillbar { display:flex; flex-wrap:wrap; gap:9px; margin:27px 0 0; }
+    .pill { padding:7px 12px; border:1px solid var(--line); border-radius:20px; font-size:.75rem; color:var(--muted); background:#0d191e; }
+    .warning { background:#332a1c; color:#f9e4bd; border:1px solid #685032; border-radius:12px; padding:16px 18px; margin:26px 0 40px; font-size:.94rem; }
+    .grid { display:grid; grid-template-columns:repeat(3,1fr); gap:16px; }
+    .card { background:rgba(17,30,36,.91); border:1px solid var(--line); border-radius:15px; padding:23px; }
+    .label { font-size:.72rem; letter-spacing:.1em; color:var(--muted); text-transform:uppercase; font-weight:700; }
+    .big { font-size:clamp(1.9rem,4vw,2.65rem); letter-spacing:-.05em; margin:6px 0; font-weight:780; font-variant-numeric:tabular-nums; }
+    .small { font-size:.84rem; color:var(--muted); }
+    .cyan { color:var(--cyan); } .purple { color:var(--purple); } .yellow { color:var(--warn); }
+    section { padding-top:47px; }
+    .section-intro { max-width:700px; color:var(--muted); margin:0 0 22px; }
+    .flow { display:grid; grid-template-columns:repeat(5,minmax(0,1fr)); gap:11px; }
+    .flow .card { padding:15px; min-height:130px; }
+    .flow .digit { color:var(--cyan); font-size:.76rem; font-weight:800; margin-bottom:9px; }
+    .metric-grid { display:grid; grid-template-columns:1fr 1fr; gap:18px; }
+    select { background:#0a181e; color:white; padding:10px; border:1px solid #47636b; border-radius:8px; width:100%; margin:8px 0 12px; font:inherit; }
+    .bar { height:11px; background:#30434a; border-radius:8px; overflow:hidden; margin:7px 0 14px; }
+    .bar span { height:100%; display:block; background:var(--cyan); transition:width .3s ease; }
+    .row { display:flex; justify-content:space-between; gap:12px; align-items:center; }
+    .row strong { font-variant-numeric:tabular-nums; }
+    code { color:#b7e9ef; }
+    pre { background:#061115; border:1px solid var(--line); border-radius:10px; padding:18px; overflow:auto; font-size:.85rem; }
+    .claims { display:grid; gap:10px; }
+    .claim { display:flex; justify-content:space-between; gap:15px; align-items:flex-start; border-bottom:1px solid var(--line); padding:12px 0; }
+    .status { border:1px solid var(--line); font-size:.7rem; border-radius:8px; padding:4px 7px; letter-spacing:.06em; white-space:nowrap; }
+    .status.pass { color:var(--green); border-color:#416f55; } .status.open { color:var(--warn); border-color:#80683d; }
+    footer { border-top:1px solid var(--line); padding:25px 0 40px; color:var(--muted); font-size:.85rem; }
+    .twocol { display:grid; grid-template-columns:1fr 1fr; gap:18px; }
+    @media(max-width:760px) { .grid,.metric-grid,.twocol {grid-template-columns:1fr;} .flow {grid-template-columns:1fr 1fr;} .hero {padding-top:43px;} nav {gap:8px;} }
+    @media(max-width:430px) { .flow {grid-template-columns:1fr;} }
+  </style>
+</head>
+<body>
+<header><div class="container top"><div class="wordmark">MILLIE<span>COMPLEX</span> / RSI</div><nav aria-label="Top navigation"><a href="#experiment">Experiment</a><a href="#architecture">Architecture</a><a href="#evidence">Evidence</a><a href="#replay">Replay</a></nav></div></header>
+<main class="container">
+  <section class="hero" aria-labelledby="main-title">
+    <div class="eyebrow">Monolithic LLC · Open research prototype · v0.1.0</div>
+    <h1 id="main-title">Recursion is not<br/><em>improvement.</em></h1>
+    <p class="lead">MillieComplex RSI is a bounded, evidence-gated loop for proposing improvements, trying to falsify them, preserving revision history, and never confusing a passing toy benchmark with general intelligence.</p>
+    <div class="pillbar"><span class="pill">Synthetic study only</span><span class="pill">Frozen evaluation protocol</span><span class="pill">No model-weight modification</span><span class="pill">Human review required</span></div>
+  </section>
+  <div class="warning"><strong>Evidence boundary:</strong> The included 100% candidate score is on <strong>384 artificial cases</strong> labeled by a rule visible in the source code. A conventional oracle-aware policy also scores 100%. Neither result demonstrates AGI, EFMW-specific physics, or real-world transfer.</div>
+  <section id="experiment" aria-label="Demonstration summary">
+    <h2>01 / Frozen demonstration</h2>
+    <p class="section-intro">RSI-SYNTH-001 · Development-only recursive optimization, followed by separate synthetic holdout evaluation. These figures load from the repository's replayable evidence packet.</p>
+    <div class="grid">
+      <div class="card"><div class="label">Baseline accuracy</div><div class="big" id="baseline-acc">41.41%</div><div class="small">159 / 384 synthetic holdout decisions</div></div>
+      <div class="card"><div class="label">Candidate accuracy</div><div class="big cyan" id="candidate-acc">100%</div><div class="small">384 / 384 · matches the conventional ceiling</div></div>
+      <div class="card"><div class="label">Oracle-aware reference</div><div class="big purple" id="reference-acc">100%</div><div class="small">Rule-based control · also perfect</div></div>
+    </div>
+    <div class="metric-grid" style="margin-top:18px;">
+      <div class="card">
+        <div class="label">Inspect heldout policy</div>
+        <label for="policy"><span class="small">Select a policy</span></label>
+        <select id="policy"><option value="baseline">Initial baseline</option><option value="conservative_baseline">Conservative baseline</option><option value="candidate" selected>Recursive candidate</option><option value="random_search_null">Random-search control</option><option value="oracle_aware_reference">Oracle-aware reference</option></select>
+        <div class="row"><span>Accuracy</span><strong id="accuracy-text">100%</strong></div><div class="bar"><span id="accuracy-bar" style="width:100%"></span></div>
+        <div class="row"><span>Wrong assertion rate</span><strong id="false-text">0%</strong></div><div class="bar"><span id="false-bar" style="width:0%;background:var(--warn)"></span></div>
+        <div class="row"><span>Assertive coverage</span><strong id="coverage-text">11.46%</strong></div><div class="bar"><span id="coverage-bar" style="width:11.46%;background:var(--purple)"></span></div>
+        <p class="small" id="metric-n">Denominator: 384 holdout cases for each metric.</p>
+      </div>
+      <div class="card">
+        <div class="label">Frozen decision</div>
+        <div class="big cyan" id="gate">PASS</div>
+        <p class="small">Internal synthetic gate only: ≥5 percentage points accuracy improvement; no increased wrong assertions; paired bootstrap lower bound above zero.</p>
+        <div style="border-top:1px solid var(--line);padding-top:17px;margin-top:20px;">
+          <div class="row"><span class="small">Independent replication</span><span class="status open">UNRESOLVED</span></div>
+          <div class="row" style="margin-top:11px"><span class="small">Real-world transfer</span><span class="status open">UNRESOLVED</span></div>
+          <div class="row" style="margin-top:11px"><span class="small">EFMW-specific mechanism</span><span class="status open">UNRESOLVED</span></div>
+          <div class="row" style="margin-top:11px"><span class="small">Model-weight improvement</span><span class="status open">NOT IMPLEMENTED</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="architecture">
+    <h2>02 / Recursive control loop</h2><p class="section-intro">An inspectable transition system: changes to a bounded policy, not changes to the AI's foundational weights or hidden instructions.</p>
+    <div class="flow">
+      <div class="card"><div class="digit">01</div><h3>Freeze</h3><div class="small">Baseline, seeds, metrics, budgets, gate and protocol version</div></div>
+      <div class="card"><div class="digit">02</div><h3>Propose</h3><div class="small">Modify one permitted strategy parameter</div></div>
+      <div class="card"><div class="digit">03</div><h3>Critique</h3><div class="small">Compare on development cases only; preserve failures</div></div>
+      <div class="card"><div class="digit">04</div><h3>Verify</h3><div class="small">Heldout control comparisons, metric gate, exact replay</div></div>
+      <div class="card"><div class="digit">05</div><h3>Review</h3><div class="small">Human attestation; no automatic deployment</div></div>
+    </div>
+  </section>
+  <section id="evidence">
+    <h2>03 / Claims are not interchangeable</h2>
+    <p class="section-intro">Passing an instrument-check is not evidence of a proposed mechanism. The scientific status and test decision belong in different fields.</p>
+    <div class="card claims">
+      <div class="claim"><div><strong>Reproducible bounded optimizer</strong><div class="small">Executable Python, unit tests, deterministic archive</div></div><span class="status pass">DERIVED / TESTED</span></div>
+      <div class="claim"><div><strong>Synthetic acceptance threshold</strong><div class="small">64 candidate proposals, 64 null proposals, 384 heldout cases</div></div><span class="status pass">PASS · SIMULATED</span></div>
+      <div class="claim"><div><strong>Independent external replication</strong><div class="small">No separate research laboratory or sealed external evaluation yet</div></div><span class="status open">UNRESOLVED</span></div>
+      <div class="claim"><div><strong>Improvement beyond strong conventional baselines</strong><div class="small">The oracle-aware conventional reference matches the candidate</div></div><span class="status open">NOT ESTABLISHED</span></div>
+      <div class="claim"><div><strong>General AI or EFMW-specific mechanism</strong><div class="small">Not tested by synthetic policy search</div></div><span class="status open">UNRESOLVED</span></div>
+    </div>
+    <p class="small"><a href="docs/evidence-ledger.json">Full machine-readable claims ledger</a> · <a href="docs/limitations.md">Limitations and exclusions</a> · <a href="docs/research-note.md">Research note</a></p>
+  </section>
+  <section id="replay"><h2>04 / Reproduce the evidence</h2>
+    <div class="twocol">
+      <div class="card"><div class="label">Local commands</div>
+        <pre><code>python -m unittest discover -s tests -v
+python -m rsi run --out runs/first
+python -m rsi verify runs/first --check-source
+python -m rsi replay runs/first</code></pre>
+        <p class="small">Standard library Python 3.10+; all outputs local. The protocol is versioned, and each run records source and artifact hashes.</p>
+      </div>
+      <div class="card"><div class="label">Audit packet</div>
+        <p><a href="configs/protocol-v1.json">Frozen protocol</a></p>
+        <p><a href="examples/frozen_demo/report.json">Machine-readable result</a></p>
+        <p><a href="examples/frozen_demo/search_trace.json">Step-by-step revision traces</a></p>
+        <p><a href="examples/frozen_demo/manifest.json">SHA-256 digests</a></p>
+        <p><a href="docs/reviewer-checklist.md">Independent reviewer checklist</a></p>
+      </div>
+    </div>
+  </section>
+</main>
+<footer><div class="container">MillieComplex / RSI · Matthew Chenoweth Wright · Monolithic LLC · Research prototype · <a href="https://github.com/enuminous">@enuminous</a><div class="small">No production deployment, no independent replication claim, no AGI claim. Audit what compiles—and what remains unresolved.</div></div></footer>
+<script>
+(function () {
+  const $ = id => document.getElementById(id);
+  const format = x => (100*x).toFixed(2).replace(/\.00$/, '') + '%';
+  const select = $('policy');
+  let data = null;
+  const render = () => {
+    if (!data) return;
+    const m = data.heldout[select.value];
+    if (!m) return;
+    for (const [id,key] of [['accuracy','accuracy'],['false','false_assertion_rate'],['coverage','coverage']]) {
+      $(id+'-text').textContent = format(m[key]);
+      $(id+'-bar').style.width = (100*m[key])+'%';
+    }
+    $('metric-n').textContent = `Denominator: ${m.n} cases. Correct: ${m.correct}; wrong assertions: ${m.false_assertions}.`;
+    $('gate').textContent = data.gate.status;
+    $('baseline-acc').textContent = format(data.heldout.baseline.accuracy);
+    $('candidate-acc').textContent = format(data.heldout.candidate.accuracy);
+    $('reference-acc').textContent = format(data.heldout.oracle_aware_reference.accuracy);
+  };
+  select.addEventListener('change', render);
+  fetch('./examples/frozen_demo/report.json').then(r => { if (!r.ok) throw Error('No report'); return r.json(); })
+    .then(report => { data = report; render(); })
+    .catch(() => { $('metric-n').textContent += ' Static preview: use GitHub Pages or a local HTTP server for live JSON inspection.'; });
+})();
+</script>
+</body>
+</html>

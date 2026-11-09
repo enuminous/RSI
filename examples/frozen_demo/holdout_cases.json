@@ -1,0 +1,3074 @@
+[
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00000-8058f4baf286",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00001-c977fa040176",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00002-ffc067a9deef",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00003-1e5f19722cb1",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00004-5530cbc0ab77",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00005-5c74b9c7331d",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00006-9c0aedc05d23",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00007-84ab2195b620",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00008-16fc65dccbf9",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00009-c416201859e3",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00010-48e33d15c00f",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00011-825c9544602d",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00012-deb3cd233bb5",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00013-f2bdb3f09189",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00014-dcc9131abe15",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00015-591d436adbbc",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00016-a8b7a0b6e76e",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00017-8ca44326ea38",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00018-868c209c53e8",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00019-133c4f89bdbc",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00020-6064de1752d8",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "SUPPORTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00021-cfafba7eaf8a",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00022-a4773c48bd80",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00023-07951c28cb3a",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "SUPPORTED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00024-a160df0f09f8",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00025-449f82edf2d7",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00026-5d45876e5d77",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00027-60c7fe00e299",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00028-dc757ff53947",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00029-1429d3336a1f",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00030-feb8cade3fc4",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00031-df3f6ef97721",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00032-1a8aa61e908b",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00033-a859729af8e2",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00034-878951e4bfb3",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00035-85c175e3c408",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00036-f21b8d45e729",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00037-8095e4a08ac2",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00038-25ca0fb2fd7c",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00039-679da64af506",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00040-5e80367bf476",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00041-b65ee89897b0",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00042-2c37e446efc0",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00043-28ba90ee24db",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00044-8057e8d882c8",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00045-fe304551e596",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00046-7b4015b74e7b",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00047-6859b2fdc5a5",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00048-c2b05e5fca6c",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00049-87f4c8e3f9e6",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00050-2ec2eb12cba6",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00051-b103683f7933",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00052-09f905d07d52",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00053-1b74af4066ff",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00054-407900b9777b",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00055-81da3d82c6c6",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00056-8e6a7e291ee2",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00057-cde7309cf51c",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00058-d4949a7ae306",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00059-ac89dea247f9",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00060-a0e4c619797f",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00061-77f7d2c49f68",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00062-33d8f647a38d",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00063-fe97abf9c023",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00064-06a0e223e33c",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00065-5c7fceed597a",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00066-99426147fb30",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00067-ccc1e2b542ad",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00068-c1094c6c3f10",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00069-78caddb22bbe",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00070-feefe784042f",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00071-377c4ec6b8c7",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00072-4f587cca3b1c",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00073-1a38629c3192",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00074-5484053da925",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00075-3b22bec962d6",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00076-b06eb96df208",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00077-b8ec8c79681d",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00078-d77bc4030d89",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00079-f935ef62e565",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00080-faf71c6138ec",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00081-f8b6de6e4988",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00082-16c8f08a236a",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00083-f8d5e9464097",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "SUPPORTED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00084-dcfa7d76a8b9",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00085-bfce6caebeac",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00086-828358708315",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00087-43736481220c",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "SUPPORTED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00088-f6abdfb22691",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00089-c99829d4ecb0",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00090-3ee3b6f36566",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00091-ac002cf3dc43",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00092-f52d44eb3e63",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00093-b41b8517cf32",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00094-4dc26b057e80",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00095-3bacb98acefa",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00096-de4f906e47e1",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00097-9a9bd37ca56e",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00098-b175af00a589",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00099-2266e285ef38",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00100-1814abe7eb7b",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00101-523b9a4d8afe",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00102-5bba867f7870",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00103-0c07b9747fbf",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00104-0431e4a0ebc8",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00105-2b5f44fe5303",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00106-9be0f90f4735",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00107-9397de685a7d",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00108-63aa61727a7d",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00109-e455df7f9279",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00110-b624184ceb20",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00111-9eb8c150e325",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00112-b5d189b20021",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00113-4744b67bd7e9",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00114-7c7cb0cbeef0",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00115-ee8629794e3f",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00116-562f2be82e0f",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00117-385aaa321abd",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00118-33ff3128f7ce",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00119-bbd851f22086",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00120-750c299ec323",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00121-10f70b40ed33",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00122-e0a583c8b6eb",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00123-e56c4a116048",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00124-ae8650edf868",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00125-91534d29ed92",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00126-b33844919212",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00127-81f25e74dd75",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00128-9af0974ff0ca",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00129-b138115116ef",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00130-a0827dadf4ce",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00131-a98fca62820e",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00132-328444bcd3f2",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00133-9508192fdc07",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00134-2e3ba93d0f7c",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00135-2b0688a0de41",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00136-8f676e782010",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00137-e9261c986448",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00138-ddcef044931f",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00139-0334b6cf05e0",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00140-b5b13b025649",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00141-3bb5e0bed358",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00142-e9457f26f203",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00143-04547e1f66a1",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00144-0407448608a0",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00145-95e459ccd128",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00146-f4189c8ac6ad",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "SUPPORTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00147-a388c2712275",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00148-350de7afbee4",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00149-e5385fdd5010",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00150-dbe31857581f",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00151-0e97e8f53c8b",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00152-ec1b149db7f1",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00153-b1bde967c70f",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00154-deedf46dac0a",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00155-2c229b8cb375",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00156-c076fb2c6b99",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00157-59b331fbfe1d",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "SUPPORTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00158-9de690b824c7",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00159-e854c8e856c3",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00160-b829579e6095",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00161-196ee2a521e2",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "SUPPORTED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00162-360ce5317514",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00163-35829f308716",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00164-39a5d7fe1ad9",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00165-6db564d696de",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00166-e7c97daa4504",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00167-6d6abd048d30",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00168-a6df88cdef68",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00169-72266aea91ae",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00170-3c754e3b4267",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00171-eb76aedf0669",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00172-0f7a08d46489",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00173-3dd7eee0c57b",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00174-7d017a739fed",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00175-87ebcd64486a",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00176-e2e302cbb713",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00177-0cb007084876",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00178-ecf2e1b9e74e",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00179-fabcfc784241",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00180-0cd6dcd76559",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00181-00c7ce8df748",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "SUPPORTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00182-cfeda3143467",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00183-b29b0d0ed9ef",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00184-757fa434d8de",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00185-15fd7ec69888",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00186-5b0efce1370f",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00187-b2126839ca93",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00188-8df8a0fb69ad",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00189-e241f0407b50",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "SUPPORTED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00190-f1832a1e63cd",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00191-9126e766d96d",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00192-3162e833ecc9",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00193-f47117adc7de",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00194-14aa99039ff0",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00195-7bccabfce5cf",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00196-0f1d28c90bed",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00197-3030c83e301f",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00198-086287f32773",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00199-f14d1e0fe515",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00200-b79498692d2a",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00201-66c6feee34d9",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00202-a2ca0d0b184a",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00203-d0007aad1489",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00204-edafc2ba639f",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "SUPPORTED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00205-1774ac68d97c",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00206-7c0d8a318068",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00207-f8a87840e56e",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00208-093e6c36689c",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00209-c2a2726b25ab",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00210-ebad72ca1225",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00211-dc832c510b9b",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00212-ad2778384e59",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00213-eb5d877a8392",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00214-a37ff4dba0ab",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00215-67f6e2c7ac11",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00216-a8d480528c4d",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00217-a39eb38e3516",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00218-501bad0da41f",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00219-820fe27c24d5",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00220-87287bb64ac7",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00221-30b9e6c76ead",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00222-30d452e5bdd6",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00223-cf83a0f9a544",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00224-008969efafa1",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00225-3c6365c6b33c",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00226-33b0f10677f4",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00227-b1ab7ee6baba",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00228-73baef277367",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00229-51776a9dcb7a",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00230-16f338c69fca",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "SUPPORTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00231-9d46d320cdb5",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00232-d7d70d0500f1",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00233-598d86c5389e",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00234-0e6a330a2772",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00235-53cd2666d988",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00236-1060c4bb0930",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00237-8065b9c0df24",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00238-47881ced8e7b",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00239-b0ee9b144cf9",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00240-025476f34dc9",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00241-3b7f3bf1ac5b",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00242-718d7542f6a8",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00243-119672fade92",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00244-980d20c8af97",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00245-14398ac8119a",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00246-e409ed0069d4",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00247-bde45d9b0eae",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00248-535c0aacbf8b",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00249-9a5c80f00bbb",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00250-98ec3162ae69",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00251-5775278b19aa",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00252-7240424da2c5",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00253-9097fe77dcd7",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00254-306c1f9f4ab0",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00255-57abcbef0e02",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00256-e6979d76b150",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00257-514a4bb39015",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00258-46b36f6da224",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00259-6a4d0f34cd98",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00260-57835453fde6",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00261-6d351e7f7861",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00262-30ab55fdf71e",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00263-5eaa2a7cda73",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00264-b574c51ea592",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00265-4d84535dfa64",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00266-25933b026c33",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00267-90ebe4cb174a",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00268-a63944586b53",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00269-fab99238348b",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00270-5614ad5bbc0d",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00271-b6dd0e5ffeff",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00272-1e2b9af721e6",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00273-05e85a185796",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00274-a1e2a693fe09",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00275-ea223dad7ff8",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00276-b463d8fca935",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00277-f1b0a8ed3b48",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00278-7b6f435af301",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00279-a75894bd26e0",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00280-c412cd482aa1",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00281-1445d9f5483f",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00282-95ba72b096d0",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00283-4bf6c54ad861",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00284-041c16af1f08",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00285-d4325ae240bb",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00286-c9507e785c2e",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00287-4d122ca5bc2a",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00288-4dfaac923b34",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00289-a49b46ea0e29",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00290-7f0ac774b0eb",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00291-b4c27481b991",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00292-aa073157dd99",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00293-fe3006e567a5",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00294-9ce0fddec4b0",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00295-35bed60cac24",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00296-44667199f17e",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00297-124dc5ebef70",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00298-8d12404139be",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00299-07d75a2c2c62",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00300-2e4b98cb8822",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00301-0699ebdc1ee0",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00302-f484222e674a",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00303-e971fbc34b37",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00304-a0063d9d908e",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00305-84fdb5d9e64c",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00306-9705e282b6f1",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00307-f28ab968d20c",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00308-ce0d1c13a195",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00309-8ca12f26a7b1",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00310-6189e08d1357",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00311-681b472d7726",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00312-1891b300a5d6",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00313-06c1f96ea545",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00314-2ad341f7f8e9",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00315-1a6b0facb709",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00316-d88e79aba1b0",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00317-3747fbc901e8",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00318-e2f5ea195cc7",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00319-49e8b57a5aed",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00320-f76d5e23b809",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00321-81e1d89e1abe",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00322-a956fd8346ac",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00323-9328bf5daa42",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00324-8cec7405422e",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00325-18aa686897d4",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00326-5e4059723084",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00327-d530f35fe70f",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00328-087fc69a4a0c",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00329-f721baed8e89",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "SUPPORTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00330-899a6189a23b",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00331-8761f7b76968",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00332-5dd07a267e43",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00333-4ee66f18914e",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00334-d4a342a5f64d",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00335-fc112e6e5a14",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "SUPPORTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00336-009809a65d9a",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00337-ce791c58dc8f",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00338-c07df3cc1b71",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00339-89cc314a022b",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00340-93c2cd92646d",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00341-e6a5ef007609",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00342-fa44b95e8a3b",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00343-db8c66a5a6a2",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00344-b24334e16460",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00345-ea25dbbbe0a4",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00346-05e0c5a19c50",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00347-07899238d4ef",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00348-320923975385",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00349-798ccfc27e2f",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00350-77f25ec58a1a",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00351-13ab633df209",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00352-0b1136d70443",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00353-cc1e3efd1a11",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00354-b4da90e34ed4",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00355-99822058d7aa",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "SUPPORTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00356-c59ba1975890",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00357-b2b1313b2595",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00358-0a0b6b4b77de",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00359-1c1081960aff",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00360-e08d51ccf74f",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00361-115a14d76859",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00362-9f1484f8d129",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00363-cf270345c7e9",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00364-c580fa067dc1",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00365-1ac9227685af",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00366-2b839d40acfe",
+    "contradictions": 3,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00367-aadb8b465b0c",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00368-3e8e2f03e6fe",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00369-b6e924fb7939",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00370-cbd67972c651",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00371-b6920f6c8f2b",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00372-8e86d466164f",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00373-f3924138fcf4",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 3,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00374-ab4d0a7e1bc1",
+    "contradictions": 1,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00375-64adfd3f388b",
+    "contradictions": 0,
+    "provenance_verified": false,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00376-97c2472e62c9",
+    "contradictions": 3,
+    "provenance_verified": true,
+    "supports": 2,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00377-c7a97e29c7d1",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00378-c6877c7ac4f9",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00379-ef11413b22c0",
+    "contradictions": 1,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "CONTRADICTED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00380-c5c5a11b3600",
+    "contradictions": 2,
+    "provenance_verified": false,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": false,
+    "case_id": "holdout-00381-9c0557d5d373",
+    "contradictions": 2,
+    "provenance_verified": true,
+    "supports": 1,
+    "truth": "UNRESOLVED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00382-705468999829",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 3,
+    "truth": "SUPPORTED"
+  },
+  {
+    "bridge_verified": true,
+    "case_id": "holdout-00383-1a5648894c74",
+    "contradictions": 0,
+    "provenance_verified": true,
+    "supports": 0,
+    "truth": "UNRESOLVED"
+  }
+]
